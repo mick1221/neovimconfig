@@ -9,5 +9,15 @@ return{
         event = "InsertEnter",
         config = true,
         opts = {}
+    },
+
+    {
+        "nvim-tree/nvim-tree.lua",
+        opts={}
+    },
+
+    {
+        "nvim-tree/nvim-web-devicons",
+        opts = {}
     }
 }
