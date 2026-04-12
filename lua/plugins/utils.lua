@@ -19,5 +19,10 @@ return{
     {
         "nvim-tree/nvim-web-devicons",
         opts = {}
+    },
+
+    {
+        "ibhagwan/fzf-lua",
+        opts = {}
     }
 }
